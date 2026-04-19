@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow==2.15.0
+transformers
+sentencepiece
+sacrebleu
+matplotlib
+scikit-learn
+datasets
